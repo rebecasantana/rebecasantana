@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Rebeca Santana👋
 
 # 💫 About Me:
-Seja muito bem-vindo(a) ao meu perfil. Sou estudante de Análise e Desenvolvimento de Sistemas, e estou à procura da minha primeira oportunidade de trabalhar como desenvolvedora front-end.
+Seja muito bem-vindo(a) ao meu perfil.Estou participando do Bootcamp de Java FullStack Jr da Generation Brasil.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rebecasantana/) 
