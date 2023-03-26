@@ -1,7 +1,8 @@
-### Olá! Eu sou a Rebeca Santana👋
+### Hello! I'm Rebeca Santana👋
 
 # 💫 About Me:
-Seja muito bem-vindo(a) ao meu perfil.Estou participando do Bootcamp de Java FullStack Jr da Generation Brasil.
+
+Welcome to my profile. I'm participating in a BootCamp that prepar me for the job market as a Java Jr Full-Stack web developer.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rebecasantana/) 
