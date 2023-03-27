@@ -1,6 +1,6 @@
 ### Hello! I'm Rebeca Santana👋
 
-# 💫 About Me:
+# 👩🏻‍💻 About Me:
 
 Welcome to my profile. I'm participating in a BootCamp that prepar me for the job market as a Java Jr Full-Stack web developer.
 
