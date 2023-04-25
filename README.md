@@ -2,7 +2,7 @@
 
 # 👩🏻‍💻 About Me:
 
-Welcome to my profile. I'm participating in a BootCamp that prepar me for the job market as a  Jr Full-Stack web developer.
+Welcome to my profile. I'm participating in a BootCamp that prepare me for the job market as a  Jr Full-Stack web developer.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/rebecasantana/) 
